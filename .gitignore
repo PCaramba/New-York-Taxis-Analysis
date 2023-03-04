@@ -134,3 +134,7 @@ dmypy.json
 # All data files
 *.csv
 *.txt
+*.xls
+*.xlsx
+*.doc
+*.docx
